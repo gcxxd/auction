@@ -1,0 +1,109 @@
+{
+    "product":[{
+        "id":1,
+        "title":"iPhone手机",
+        "price":"6000",
+        "rating":5,
+        "desc":"最新款iPhone",
+        "categories":""
+      },
+      {
+        "id":2,
+        "title":"小米手机",
+        "price":"3000",
+        "rating":4,
+        "desc":"性价比很高的一款小米手机",
+        "categories":""
+      },
+      {
+        "id":3,
+        "title":"美的电视",
+        "price":"2000",
+        "rating":4,
+        "desc":"最新款电视",
+        "categories":""
+      },
+      {
+        "id":4,
+        "title":"美的冰箱",
+        "price":"4000",
+        "rating":5,
+        "desc":"一款质量很高的冰箱",
+        "categories":""
+      },
+      {
+        "id":5,
+        "title":"格力空调",
+        "price":"2500",
+        "rating":5,
+        "desc":"nice",
+        "categories":""
+      },
+      {
+        "id":6,
+        "title":"华硕电脑",
+        "price":"4500",
+        "rating":4,
+        "desc":"",
+        "categories":""
+      }],
+      "comments":[
+        {
+          "id": 1,
+          "productId":"1",
+          "time":"2017-1-1",
+          "user":"ozil",
+          "rating":5,
+          "content":"pretty good"
+        },
+        {
+          "id": 2,
+          "productId":"1",
+          "time":"2017-1-1",
+          "user":"ozil",
+          "rating":5,
+          "content":"pretty good"
+        },
+        {
+        "id": 3,
+        "productId":"1",
+        "time":"2017-1-1",
+        "user":"ozil",
+        "rating":5,
+        "content":"pretty good"
+      },
+      {
+        "id": 4,
+        "productId":"1",
+        "time":"2017-1-1",
+        "user":"ozil",
+        "rating":5,
+        "content":"pretty good"
+      },
+      {
+        "id": 5,
+        "productId":"2",
+        "time":"2017-1-1",
+        "user":"ozil",
+        "rating":5,
+        "content":"pretty good"
+      },
+      {
+        "id": 6,
+        "productId":"2",
+        "time":"2017-1-1",
+        "user":"ozil",
+        "rating":5,
+        "content":"pretty good"
+      },
+      {
+        "id": 7,
+        "productId":"2",
+        "time":"2017-1-1",
+        "user":"ozil",
+        "rating":5,
+        "content":"pretty good"
+      }
+    ]  
+}
+
